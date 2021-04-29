@@ -1,0 +1,36 @@
+
+
+body {
+  background: cadetblue;
+}
+
+h2,
+h3,
+p {
+  text-align: center;
+}
+
+h2 {
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 6px;
+}
+
+h3 {
+  color: #28ff09;
+}
+
+input {
+  display: block;
+  margin: 0 auto;
+}
+
+em {
+  color: #ffffff;
+}
+
+a, a:hover {
+  color: aqua;
+  text-decoration: none;
+}

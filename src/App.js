@@ -13,7 +13,24 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>coded by SheCodes</small>
+          <small>
+            coded by{" "}
+            <a
+              href="https://www.github.com/hiimeems"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              michelle chung
+            </a>{" "}
+            with{" "}
+            <a
+              href="https://www.shecodes.io"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              SheCodes
+            </a>
+          </small>
         </footer>
       </div>
     </div>
